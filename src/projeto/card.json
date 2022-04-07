@@ -1,0 +1,9 @@
+{
+    "botao": "PRO",
+    "foto": ["https://dtpr0iglcwflm.cloudfront.net/profissoes/wp-content/uploads/2021/07/iStock-1267385834-768x512.jpeg"],
+    "nome" : "Ricky Park",
+    "cidade": "NEW YORK",
+    "descricao" : "User interface designer and front-end developer",
+    "botoes" : ["Mensagem" , "Folowing"],
+    "skills" : ["UI/UX", "Front End Development", "HTML", "CSS", "JavaScript", "React", "Node"]
+}

@@ -1,24 +1,15 @@
-import { Button } from 'antd';
-import Menu from './componentes/Menu';
-import Main from './componentes/Main';
-import CheckableButton from './componentes/CheckableButton';
-import Contador from './componentes/Contador';
 
-const App = () => {
+import ProdutoCard from './projeto';
+
+const App = () => (
  
-  return(
-  <div>
-    {/* <Button>Teste</Button> */}
-    <CheckableButton> TESTE</CheckableButton>
-    <Contador></Contador>
-    
-    <Menu/>
-    <Main/>
-  </div>
+  <ProdutoCard></ProdutoCard>
+
+);
+  
+export default App;
 
   
-)};
 
-export default App;
 
 
