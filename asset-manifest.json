@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LetsCode-Modulo4-React/static/css/main.07fe0191.css",
+    "main.js": "/LetsCode-Modulo4-React/static/js/main.e703d81f.js",
+    "static/js/787.fe942f5e.chunk.js": "/LetsCode-Modulo4-React/static/js/787.fe942f5e.chunk.js",
+    "index.html": "/LetsCode-Modulo4-React/index.html",
+    "main.07fe0191.css.map": "/LetsCode-Modulo4-React/static/css/main.07fe0191.css.map",
+    "main.e703d81f.js.map": "/LetsCode-Modulo4-React/static/js/main.e703d81f.js.map",
+    "787.fe942f5e.chunk.js.map": "/LetsCode-Modulo4-React/static/js/787.fe942f5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07fe0191.css",
+    "static/js/main.e703d81f.js"
+  ]
+}
